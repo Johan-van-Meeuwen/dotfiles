@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = vanmeeuwen.j@gmail.com
+	name = Johan van Meeuwen
